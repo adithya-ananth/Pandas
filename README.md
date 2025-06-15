@@ -1,3 +1,3 @@
 # Pandas
 
-Basic functions of Pandas library
+Basic functions and implementations of Pandas library
